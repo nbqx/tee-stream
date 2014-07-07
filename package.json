@@ -1,0 +1,22 @@
+{
+  "name": "tee-stream",
+  "description": "just like tee(1) stream",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/tee-stream.git"
+  },
+  "homepage": "https://github.com/nbqx/tee-stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "base64-stream": "^0.1.2",
+    "tap-colorize": "^1.2.0",
+    "tape": "^2.13.1"
+  }
+}
