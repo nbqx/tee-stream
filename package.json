@@ -13,7 +13,9 @@
     "test": "tape test/*.js"
   },
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "event-stream": "^3.3.0"
+  },
   "devDependencies": {
     "base64-stream": "^0.1.2",
     "tap-colorize": "^1.2.0",
