@@ -1,7 +1,7 @@
 {
   "name": "tee-stream",
   "description": "just like tee(1) stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "nbqx",
   "repository": {
     "type": "git",
